@@ -1,13 +1,10 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+layout: archive
+title: "Software"
+permalink: /software/
+author_profile: true
 ---
+
 
 # Actively developed
 
