@@ -10,7 +10,7 @@ author_profile: true
 * [particles](https://github.com/nchopin/particles): Sequential Monte Carlo
   python library; implements all the methods described in the book. Check the
   documentation
-  on[readthedocs](https://particles-sequential-monte-carlo-in-python.readthedocs.io/en/latest/).
+  on [readthedocs](https://particles-sequential-monte-carlo-in-python.readthedocs.io/en/latest/).
   (See in particular the notebook
   [tutorials](https://particles-sequential-monte-carlo-in-python.readthedocs.io/en/latest/tutorials.html)).
 
