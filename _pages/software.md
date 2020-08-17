@@ -5,21 +5,26 @@ author_profile: true
 ---
 
 
-# Actively developed
+## Actively developed
 
-* particles (python): Sequential Monte Carlo library; implements all the
-  methods described in the book. Check the documentation on readthedocs. (See
-  in particular the notebook tutorials here).
+* [particles](https://github.com/nchopin/particles): Sequential Monte Carlo
+  python library; implements all the methods described in the book. Check the
+  documentation
+  on[readthedocs](https://particles-sequential-monte-carlo-in-python.readthedocs.io/en/latest/).
+  (See in particular the notebook
+  [tutorials](https://particles-sequential-monte-carlo-in-python.readthedocs.io/en/latest/tutorials.html)).
 
-# Older software
+## Older software
 
 Software developed by me and/or co-authors for various previous papers:
 
-* cabsde (python): Computational aspects of Bayesian spectral density estimation.
+* [cabsde](http://chopin.perso.math.cnrs.fr/cabsde.tgz) (python): Computational aspects of Bayesian spectral density estimation.
 
-* py-smc2 (python): Pierre Jacob‘s implementation of SMC^2.
+* [py-smc2](https://github.com/nchopin/py-smc2) (python): Pierre Jacob‘s implementation of SMC^2.
 
-* truncgauss (python + C): Fast simulation of Truncated Gaussian distribution,
-  see also Vincent Mazet’s Matlab implementation.
+* [truncgauss](http://chopin.perso.math.cnrs.fr/truncgauss.tgz) (python + C):
+  Fast simulation of Truncated Gaussian distribution, see also Vincent Mazet’s
+  Matlab implementation.
 
-* ep-abc (matlab): EP-ABC (jointly written with Simon Barthelmé).
+* [ep-abc](https://sites.google.com/site/simonbarthelme/software) (matlab):
+  EP-ABC (jointly written with Simon Barthelmé).
