@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor of Data Sciences/Statistics/Machine Learning at ENSAE,
-Institut Polytechnique de Paris. 
+I am a Professor of Data Sciences/Statistics/Machine Learning at
+[ENSAE](https://www.ensae.fr/en/), [Institut Polytechnique de
+Paris](https://www.ip-paris.fr/en).
 
 I am interested in all aspects of **Bayesian computation**, that is
 algorithms to perform Bayesian inference, such as 
@@ -19,7 +20,7 @@ algorithms to perform Bayesian inference, such as
 
 * fast approximations: e.g. Expectation Propagation and variational Bayes.
 
-## Projects I'm involved with currently
+## Projects I'm currently involved with 
 
 * [B3DCMB](http://b3dcmb.in2p3.fr/): big bang from big data
 

@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : dark # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -84,7 +84,7 @@ author:
   avatar           : "pomme.jpg"
   bio              : "Professor of Data Sciences"
   location         : 
-  employer         : "ENSAE (IPP)"
+  employer         : "ENSAE, Paris" 
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=pXG4LfoAAAAJ"
   email            : nicolas.chopin@ensae.fr
