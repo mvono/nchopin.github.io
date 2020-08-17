@@ -86,9 +86,9 @@ author:
   location         : "ENSAE (IPP)"
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.co.uk/citations?user=pXG4LfoAAAAJ
+  googlescholar    : "https://scholar.google.co.uk/citations?user=pXG4LfoAAAAJ"
   email            : nicolas.chopin@ensae.fr
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/nicolas_chopin"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/nchopin"
+  github           : "nchopin"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://linkedin.com/in/nicolas-chopin-442a78102"
+  linkedin         : "nicolas-chopin-442a78102"
   orcid            : "https://orcid.org/0000-0002-0628-5815"
   pinterest        :
   soundcloud       :
