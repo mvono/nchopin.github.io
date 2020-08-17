@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Nicolas Chopin"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Nicolas Chopin"
 description              : &description "personal description"
 url                      : https://nchopin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nicolas Chopin"
-  avatar           : "pomme.jpg"
+  avatar           : "/images/pomme.jpg"
   bio              : "Professor of Data Sciences"
   location         : 
   employer         : "ENSAE (IPP)"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "https://en.wikipedia.org/wiki/Nicolas_Chopin"
 
 
 # Reading Files

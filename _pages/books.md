@@ -4,6 +4,7 @@ permalink: /books/
 author_profile: true
 ---
 
+![smc_book](/images/cover_smc_book.jpg)
 
 An introduction to Sequential Monte Carlo
 
