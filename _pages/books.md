@@ -13,7 +13,7 @@ Nicolas Chopin and Omiros Papaspiliopoulos
 Due in October 2020.  Available for pre-order
 [here](https://www.springer.com/gp/book/9783030478445).  See
 [software](/software) for the accompanying Python library,
-[particles](https://github.com/nchopin/particles)
+[particles](https://github.com/nchopin/particles). 
 
 Chapters: 
 
@@ -34,5 +34,5 @@ Chapters:
 15. Markov chain Monte Carlo
 16. Bayesian estimation of state-space models and particle MCMC
 17. SMC samplers
-18. SMC^2 , sequential inference in state-space models
+18. SMC^2, sequential inference in state-space models
 19. Advanced topics and open problems
