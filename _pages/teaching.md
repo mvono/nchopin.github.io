@@ -15,4 +15,4 @@ author_profile: true
 # M2 MVA (ENS Paris-Saclay)
 
 See
-[here](http://helios.mi.parisdescartes.fr/~platouch/mva/Introduction%20to%20Probabilistic%20Graphical%20Models%20-%20MVA.html)
+[here](http://up5.fr/mva)
